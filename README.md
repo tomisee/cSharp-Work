@@ -4,3 +4,7 @@ This repo stores all of the work I am doing to learn C#, I am learning C# to beg
 -----------------------------
 | Skills | Benefit | Confidence |
 | Critical Thinking | Problem solving and understanding what causes problems | Medium |
+
+
+|1 |2 |3 |
+__ __ __
